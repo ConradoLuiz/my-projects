@@ -1,2 +1,2 @@
 # my-projects
-#Most of my projects go here
+Most of my projects go here
